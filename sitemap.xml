@@ -2,7 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://carefulcolor.com/index.html</loc>
-    <lastmod>2018-10-21</lastmod>
+    <lastmod>2018-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/jquery.twentytwenty.js</loc>
+    <lastmod>2017-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/foundation.css</loc>
+    <lastmod>2018-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/twentytwenty.css</loc>
+    <lastmod>2018-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/jquery.event.move.js</loc>
+    <lastmod>2017-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/before.png</loc>
+    <lastmod>2017-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/05_2383_ungraded.jpg</loc>
+    <lastmod>2018-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/234.jpg</loc>
+    <lastmod>2018-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://carefulcolor.com/assets/after.png</loc>
+    <lastmod>2017-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
