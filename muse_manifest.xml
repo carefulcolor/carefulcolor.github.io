@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540147364903">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540147588069">
   <folder name="assets">
     <file name="jquery.event.move.js" crc="98784562" seo="true" mt="1506245982000"/>
     <file name="jquery.twentytwenty.js" crc="340480638" seo="true" mt="1506245982000"/>
@@ -11,7 +11,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4226334981" ref="index"/>
+    <file name="index.css" crc="3918138041" ref="index"/>
     <file name="iefonts_index.css" crc="3763761537" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -28,5 +28,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="167717043" seo="true" mt="1540147331324" redirect="true"/>
+  <file name="index.html" crc="4038746818" seo="true" mt="1540147551116" redirect="true"/>
 </manifest>
