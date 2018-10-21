@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540095149051">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540095269639">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4015248812" ref="index"/>
@@ -10,9 +10,9 @@
     <file name="twentytwenty.css" crc="4118707064" seo="true" mt="1519387297000"/>
     <file name="anton_meleshkevich_luts.jpg" crc="39789822" seo="true" mt="1517959000000"/>
     <file name="05_2383_ungraded.jpg" crc="4064958991" seo="true" mt="1517589206000"/>
-    <file name="06_2383_lut_applied.jpg" crc="4231647186" seo="true" mt="1517589206000"/>
     <file name="after.png" crc="278103779" seo="true" mt="1506245982000"/>
     <file name="before.png" crc="492576143" seo="true" mt="1506245982000"/>
+    <file name="234.jpg" crc="4231647186" seo="true" mt="1517589206000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,5 +22,5 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <file name="index.html" crc="464018105" seo="true" mt="1540094425732" redirect="true"/>
+  <file name="index.html" crc="3849896229" seo="true" mt="1540095233268" redirect="true"/>
 </manifest>
