@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540146926278">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540147364903">
   <folder name="assets">
     <file name="jquery.event.move.js" crc="98784562" seo="true" mt="1506245982000"/>
     <file name="jquery.twentytwenty.js" crc="340480638" seo="true" mt="1506245982000"/>
@@ -11,8 +11,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4056239454" ref="index"/>
-    <file name="iefonts_index.css" crc="4048056436" ref="index"/>
+    <file name="index.css" crc="4226334981" ref="index"/>
+    <file name="iefonts_index.css" crc="3763761537" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,9 +24,9 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="main_bg1.jpg" crc="278669596" ref="index">
+    <file name="main_bg1.jpg" crc="4157136361" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="313447982" seo="true" mt="1540146905568" redirect="true"/>
+  <file name="index.html" crc="167717043" seo="true" mt="1540147331324" redirect="true"/>
 </manifest>
