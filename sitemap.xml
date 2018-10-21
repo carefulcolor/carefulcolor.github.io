@@ -5,10 +5,13 @@
     <lastmod>2018-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://carefulcolor.com/images/heart.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://carefulcolor.com/assets/jquery.twentytwenty.js</loc>
-    <lastmod>2017-09-24</lastmod>
+    <loc>http://carefulcolor.com/assets/twentytwenty.css</loc>
+    <lastmod>2018-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,44 +22,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://carefulcolor.com/assets/twentytwenty.css</loc>
-    <lastmod>2018-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://carefulcolor.com/assets/anton_meleshkevich_luts.jpg</loc>
-    <lastmod>2018-02-07</lastmod>
+    <loc>http://carefulcolor.com/assets/jquery.twentytwenty.js</loc>
+    <lastmod>2017-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://carefulcolor.com/assets/jquery.event.move.js</loc>
     <lastmod>2017-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://carefulcolor.com/assets/after.png</loc>
-    <lastmod>2017-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://carefulcolor.com/assets/before.png</loc>
-    <lastmod>2017-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://carefulcolor.com/assets/234.jpg</loc>
-    <lastmod>2018-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://carefulcolor.com/assets/05_2383_ungraded.jpg</loc>
-    <lastmod>2018-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
