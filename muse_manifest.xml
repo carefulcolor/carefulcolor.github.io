@@ -1,49 +1,21 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540100831368">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540139214620">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4071163211" ref="index"/>
-    <file name="iefonts_index.css" crc="3785421190" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="foundation.css" crc="312122771" seo="true" mt="1519404354000"/>
-    <file name="twentytwenty.css" crc="4118707064" seo="true" mt="1519387297000"/>
-    <file name="jquery.event.move.js" crc="98784562" seo="true" mt="1506245982000"/>
-    <file name="jquery.twentytwenty.js" crc="340480638" seo="true" mt="1506245982000"/>
+    <file name="index.css" crc="144149194" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="main_bg1.jpg" crc="3950489925" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="model-600225_640.jpg" crc="358723706" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="separator.jpg" crc="194132142" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="model-600238_640.jpg" crc="3878957572" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pretty-351884_640.jpg" crc="4209731721" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="girls-602168_640.jpg" crc="281327026" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="heart.png" crc="117585526" seo="true" ref="index">
+    <file name="main_bg1.jpg" crc="223792872" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4043892914" seo="true" mt="1540100710566" redirect="true"/>
+  <file name="index.html" crc="313474084" seo="true" mt="1540138848496" redirect="true"/>
 </manifest>
