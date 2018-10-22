@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540183236495">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540183757110">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="30777519" ref="index"/>
@@ -10,7 +10,6 @@
     <file name="foundation.css" crc="312122771" seo="true" mt="1519404354000"/>
     <file name="jquery.event.move.js" crc="98784562" seo="true" mt="1506245982000"/>
     <file name="jquery.twentytwenty.js" crc="340480638" seo="true" mt="1506245982000"/>
-    <file name="main_bg1.jpg" crc="3950489925" seo="true" mt="1540099779000"/>
     <file name="twentytwenty.css" crc="4118707064" seo="true" mt="1519387297000"/>
     <file name="2strip_01.jpg" crc="260040543" seo="true" mt="1540180448000"/>
     <file name="5219_2383_01.jpg" crc="3910560139" seo="true" mt="1540180447000"/>

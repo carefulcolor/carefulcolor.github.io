@@ -31,12 +31,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://carefulcolor.com/assets/main_bg1.jpg</loc>
-    <lastmod>2018-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://carefulcolor.com/assets/twentytwenty.css</loc>
     <lastmod>2018-02-23</lastmod>
     <changefreq>weekly</changefreq>
