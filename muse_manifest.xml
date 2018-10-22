@@ -1,8 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540183870168">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carefulcolor.com" resolutions="1x" timestamp="1540184238629">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="30777519" ref="index"/>
+    <file name="index.css" crc="3891466965" ref="index"/>
     <file name="iefonts_index.css" crc="4252657106" ref="index"/>
+    <file name="advanced-colorist-luts-pack-copy.css" crc="272221035" ref="advanced-colorist-luts-pack-copy"/>
+    <file name="iefonts_advanced-colorist-luts-pack-copy.css" crc="4093081533" ref="advanced-colorist-luts-pack-copy"/>
   </folder>
   <folder name="assets">
     <file name="after.png" crc="278103779" seo="true" mt="1506245982000"/>
@@ -37,18 +39,19 @@
     <file name="v-log_01.jpg" crc="402658031" seo="true" mt="1540180456000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:advanced-colorist-luts-pack-copy"/>
+    <file name="museutils.js" crc="340535759" ref="index:advanced-colorist-luts-pack-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:advanced-colorist-luts-pack-copy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:advanced-colorist-luts-pack-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:advanced-colorist-luts-pack-copy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:advanced-colorist-luts-pack-copy"/>
+    <file name="require.js" crc="7928878" ref="index:advanced-colorist-luts-pack-copy"/>
   </folder>
   <folder name="images">
-    <file name="main_bg1.jpg" crc="483848133" ref="index">
+    <file name="main_bg1.jpg" crc="483848133" ref="index:advanced-colorist-luts-pack-copy">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3824576633" seo="true" mt="1540183163064" redirect="true"/>
+  <file name="index.html" crc="3951869030" seo="true" mt="1540184230747" redirect="true"/>
+  <file name="advanced-colorist-luts-pack-copy.html" crc="4078706078" seo="true" mt="1540184219016" redirect="true"/>
 </manifest>
